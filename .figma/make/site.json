@@ -1,0 +1,10 @@
+{
+  "description": "Explore personalized travel experiences across South India with curated packages, local expertise, and 24/7 support for unforgettable journeys.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
