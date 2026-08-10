@@ -11,3 +11,8 @@ logs/
 *.log
 .claude-replay.*
 .tmp-*
+
+# Next.js
+.next/
+out/
+.vercel
